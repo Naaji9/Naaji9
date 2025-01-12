@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Abdirasak Mohamed Osman.
 - 👀 I’m interested in a  Full-Stack Developer and Software Engineer.
-- 🌱 I’m currently advancing my skills in Full-Stack Development, exploring Next.js, Docker, Cloud Computing, and Agile Methodologies
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently advancing my skills in Full-Stack Development, exploring Next.js, React, Python, Cloud Computing.
 - 📫 How to reach me Abdirasakm0@gmail.com
 - ⚡ Fun fact  I thrive on challenges and love integrating new tools into my workflow to create seamless user experiences
 
